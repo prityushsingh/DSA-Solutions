@@ -1,2 +1,2 @@
 # DSA-Solutions
-Solutions to DSA problems on Leetcode
+This repository contains my solutions to DSA problems
